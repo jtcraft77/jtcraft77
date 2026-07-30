@@ -7,7 +7,7 @@ I'm a freelance developer.
 - 👯 I’m looking to collaborate on nothing at this time.
 - 🤔 I’m looking for help with trying to make short films for stories working on.
 - 💬 Ask me about websites, game development and writing.
-- 📫 How to reach me: On X @Cyberpunkdevian
+- 📫 How to reach me: On X [@Cyberpunkdevian](https://www.x.com/Cyberpunkdevian)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to also write stories.
 
