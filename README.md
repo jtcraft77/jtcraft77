@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My name is JT Craft
 
-<!--
-**jtcraft77/jtcraft77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on websites and game ideas.
+- 🌱 I’m currently learning game development.
+- 👯 I’m looking to collaborate on nothing at this time.
+- 🤔 I’m looking for help with trying to make short films for stories working on.
+- 💬 Ask me about websites, game development and writing.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to also write stories.
+
