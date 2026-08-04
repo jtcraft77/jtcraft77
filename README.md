@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JT Craft</h1>
 <h3 align="center">I'm a Freelance Developer and Writer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtcraft77" alt="jtcraft77" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/cyberpunkdevian" target="blank"><img src="https://img.shields.io/twitter/follow/cyberpunkdevian?logo=twitter&style=for-the-badge" alt="cyberpunkdevian" /></a> </p>
 
